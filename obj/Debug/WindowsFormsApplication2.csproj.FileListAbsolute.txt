@@ -1,0 +1,18 @@
+E:\C#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\C#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\7\WORK\WindowsFormsApplication2\Resources\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\7\WORK\WindowsFormsApplication2\Resources\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\C# & Delphi\Программки^^\04 - (C#) Оптимизация (3 метода)\obj\Debug\WindowsFormsApplication2.exe
+E:\C# & Delphi\Программки^^\04 - (C#) Оптимизация (3 метода)\obj\Debug\WindowsFormsApplication2.pdb
+E:\C# & Delphi\Программки^^\04 - (C#) Оптимизация (3 метода)\bin\Debug\WindowsFormsApplication2.exe
+E:\C# & Delphi\Программки^^\04 - (C#) Оптимизация (3 метода)\bin\Debug\WindowsFormsApplication2.pdb
+E:\C# & Delphi\Программки^^\04 - (C#) Оптимизация (3 метода)\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\Программки^^\04 - (C#) Оптимизация (3 метода)\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\C# & Delphi\Программки^^\04 - (C#) Оптимизация (3 метода)\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\C# & Delphi\Программки^^\04 - (C#) Оптимизация (3 метода)\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
